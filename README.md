@@ -6,12 +6,7 @@ Como el git ingore evita se suban los node_mudules, debes ejecutar los siguiente
 
 ## Instalar Express JS
 ```bash
-npm install express
-```
-
-## Instalar nodemon
-```bash
-npm install nodemon -D
+npm install
 ```
 
 ## Correr el Servidor
